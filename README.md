@@ -1,3 +1,3 @@
-# dncnn_3d
-DNCNN model with 3d convolution layer
-Denoise MPM images
+# CNN model inspired by dncnn 
+CNN model with 3d convolution layer for MPM 3D stack images denoising
+
